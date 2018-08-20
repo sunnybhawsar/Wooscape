@@ -5,6 +5,9 @@
 ## Start Setup
 
 ``` bash
+# Database
+create a blank database of name wooscape in mysql DBMS.
+
 # install dependencies
 npm install
 
