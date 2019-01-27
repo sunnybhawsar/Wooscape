@@ -1,12 +1,12 @@
 # wooscape
 
-> Back end for wooscape
+> Back end for wooscape (NodeJs)
 
 ## Start Setup
 
 ``` bash
 # Database
-create a blank database of name wooscape in mysql DBMS.
+create a blank database of name 'wooscape' in mysql DBMS.
 
 # install dependencies
 npm install
