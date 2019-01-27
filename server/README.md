@@ -1,4 +1,4 @@
-# wooscape
+# server
 
 > Back end for wooscape (NodeJs)
 
