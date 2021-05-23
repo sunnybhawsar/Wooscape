@@ -12,7 +12,7 @@ app.use(bodyParser.json())
 app.use(cors())
 app.use('/', routes)
 
-sequelize.sync({force: true})
+sequelize.sync({force: false})
 	.then(() => {
     app.listen(config.port)
       console.log(`Backend server started at: ${config.port}`);
